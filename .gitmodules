@@ -1,0 +1,3 @@
+[submodule "ms_clone"]
+	path = ms_clone
+	url = https://github.com/walk/ms_clone.git
